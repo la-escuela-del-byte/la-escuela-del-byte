@@ -9,11 +9,12 @@
 <br/>
 																 
 ## :sassy_man:  About me															 
-
+- 👀 I’m interested in 'cybersecurity' and 'bid data'
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: Always `learning new things`
 <br/>
-## 📊 Github Stats
+
+## :bar_chart: Github Stats
 
 
 
@@ -47,7 +48,7 @@
 <br>
 
 - 👋 Hi, I’m @la-escuela-del-byte
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
