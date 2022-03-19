@@ -9,7 +9,7 @@
 <br/>
 																 
 ## :sassy_man:  About me															 
-- 👀 I’m interested in 'cybersecurity' and 'bid data'
+- 👀 I’m interested in `cybersecurity` and `big data`
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: Always `learning new things`
 <br/>
