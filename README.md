@@ -1,6 +1,10 @@
 <h1 align="center">Hi , I'm Santiago Marino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=la-escuela-del-byte&label=Profile%20views&color=0e75b6&style=plastic" alt="la-escuela-del-byte" /> 
