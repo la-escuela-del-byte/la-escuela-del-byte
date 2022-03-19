@@ -27,6 +27,7 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="la-escuela-del-byte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=la-escuela-del-byte&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=la-escuela-del-byte&theme=algolia" alt="la-escuela-del-byte" />
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=la-escuela-del-byte&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="la-escuela-del-byte" height="192px"/>
   <br/>
