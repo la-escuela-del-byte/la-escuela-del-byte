@@ -5,10 +5,14 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=la-escuela-del-byte&label=Profile%20views&color=0e75b6&style=plastic" alt="la-escuela-del-byte /> 
 </p>
-
 																 
-	<br/>
+<br/>
+																 
+## :sassy_man:  About me															 
 
+- :technologist: I love using Software as a solution for every `Problem`
+- :student: Always `learning new things`
+<br/>
 ## 📊 Github Stats
 
 
