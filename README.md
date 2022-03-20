@@ -18,7 +18,7 @@
 - :student: Always `learning new things`
 <br/>
 
-## Find me around the web 🌎:
+## Find me around the web 🌎
 
 <br/>
 
