@@ -21,7 +21,7 @@
 
 ## Connect with me 📫
 <p align="center">
-<a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-WEBPAGE-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://la-escuela-del-byte.github.io/"><img src="https://img.shields.io/badge/-WEBSITE-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marinofernandezsantiago@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
