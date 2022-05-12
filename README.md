@@ -3,7 +3,6 @@
 <br>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 	<img src="https://profile-counter.glitch.me/la-escuela-del-byte/count.svg" />
 </p>
 
