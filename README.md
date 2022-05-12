@@ -33,8 +33,7 @@
 <a href="mailto:correo@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 -->
 <a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 </p>
 
 <br/>
