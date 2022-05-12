@@ -2,9 +2,6 @@
 
 <!-- <br/> -->
 
-																 
-
-																 
 ## :sassy_man:  About me															 
 - 👀 I’m interested in `Cybersecurity` and `Big Data`
 - :technologist: I love using Software as a solution for every `Problem`
