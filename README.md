@@ -2,7 +2,7 @@
 
 <br>
 <p align="center"> 
-<h3><b> Profile Visitor Count</b></h3>
+<h3> Profile Visitor Count</h3>
 <img src="https://profile-counter.glitch.me/la-escuela-del-byte/count.svg" />
 </p>
 
