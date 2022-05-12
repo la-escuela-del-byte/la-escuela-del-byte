@@ -2,8 +2,8 @@
 
 <br>
 <p align="center"> 
-  Visitor count<br>
-	<img src="https://profile-counter.glitch.me/la-escuela-del-byte/count.svg" />
+<h3><b> Profile Visitor Count</b></h3>
+<img src="https://profile-counter.glitch.me/la-escuela-del-byte/count.svg" />
 </p>
 
 <p align="center"> 
