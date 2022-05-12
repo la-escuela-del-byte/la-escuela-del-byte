@@ -72,13 +72,7 @@
 
 <br>
 
-<div align="center"> 
-    <h3> Profile Visitor Count: </h3> <img src="https://profile-counter.glitch.me/la-escuela-del-byte/count.svg" />
-</div>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=la-escuela-del-byte&label=Profile%20views&color=0e75b6&style=plastic" alt="la-escuela-del-byte" /> 
-</p>
 
 <!---
 la-escuela-del-byte/la-escuela-del-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
