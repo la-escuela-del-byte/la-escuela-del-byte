@@ -3,6 +3,7 @@
 
 ## :sassy_man:  About me
 <p><img align="right" src="https://github.com/la-escuela-del-byte/profile/blob/main/animation.gif" alt="animation" /></p>
+<br/>
 - 👀 I’m interested in `Cybersecurity` and `Big Data`
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: Always `learning new things`
